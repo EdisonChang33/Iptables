@@ -1,2 +1,2 @@
-# ImmersiveStatusBar
-沉浸式状态栏实现
+# Iptables
+ using iptables rule on android platform
