@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/add"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="ADD" />
+
+    <item
+        android:id="@+id/del"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="DEL" />
+
+    <item
+        android:id="@+id/refresh"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="REFRESH" />
+
+</menu>

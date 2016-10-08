@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ImmersiveStatusBar.iml" filepath="$PROJECT_DIR$/ImmersiveStatusBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iptables.iml" filepath="$PROJECT_DIR$/Iptables.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.immersivestatusbar">
+    package="com.example.iptables">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
         android:allowBackup="true"
@@ -16,8 +18,10 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".ImmersiveActivity">
-        </activity>
+        <activity android:name=".rule.Show" />
+        <activity android:name=".rule.Input" />
+        <activity android:name=".rule.Output"/>
+        <activity android:name=".rule.Forward"/>
 
     </application>
 

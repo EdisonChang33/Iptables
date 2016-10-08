@@ -1,4 +1,43 @@
 <resources>
-    <string name="app_name">ImmersiveStatusBar</string>
-    <string name="btn_name">Immersive</string>
+    <string name="app_name">iptables</string>
+
+    <string name="show">Show IpTables</string>
+    <string name="in">Input</string>
+    <string name="out">Output</string>
+    <string name="forward">Forward</string>
+    <string name="clear">Clear IpTables</string>
+    <string name="enhance_drop">Enhance Drop</string>
+
+    <string name="add">Add</string>
+    <string name="abort">Abort</string>
+    <string name="delete">Delete</string>
+
+    <string name="addInput">Add rule</string>
+    <string name="Fromip">Source Ip</string>
+    <string name="Toip">Destination Ip</string>
+    <string name="proto">Protocol</string>
+    <string name="Action">Action</string>
+    <string name="refresh">Refresh</string>
+    <string name="Interface">Interface</string>
+    <string name="LineNumber">LineNumber</string>
+    <string name="del">Delete a Rule</string>
+
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+
+    <string-array name="proto">
+        <item></item>
+        <item>TCP</item>
+        <item>ICMP</item>
+        <item>UDP</item>
+    </string-array>
+
+    <string-array name="action">
+        <item></item>
+        <item>ACCEPT</item>
+        <item>DROP</item>
+        <item>REJECT</item>
+        <item>LOG</item>
+    </string-array>
+
 </resources>
